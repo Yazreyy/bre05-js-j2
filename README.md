@@ -1,1 +1,1 @@
-J2 - Utilisation des tableaux
+J2 - Utilisation du JS
